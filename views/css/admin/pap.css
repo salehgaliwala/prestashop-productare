@@ -1,0 +1,21 @@
+.pap-breadcrumb {
+  overflow: hidden;
+  margin-bottom: 10px; }
+  .pap-breadcrumb a {
+    cursor: pointer; }
+  .pap-breadcrumb span {
+    padding-left: 10px; }
+
+.pap-tab-pane h3 {
+  margin: 0 !important; }
+
+#form-ppat-generaL-edit .form-group.row, #form-pap-combination-edit .form-group.row {
+  margin-left: 0 !important;
+  margin-right: 0 !important; }
+#form-ppat-generaL-edit .panel-heading, #form-pap-combination-edit .panel-heading {
+  margin-bottom: 30px; }
+
+#form-pap-combination-edit {
+  padding-top: 60px !important; }
+
+/*# sourceMappingURL=pap.css.map */

@@ -1,0 +1,35 @@
+.pap-breadcrumb {
+	overflow: hidden;
+	margin-bottom: 10px;
+
+	a {
+		cursor: pointer;
+	}
+
+	span {
+		padding-left:10px;
+	}
+}
+
+.pap-tab-pane {
+	h3 {
+		margin: 0 !important;
+	}
+}
+
+#form-ppat-generaL-edit, #form-pap-combination-edit {
+
+	.form-group.row {
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+	}
+
+	.panel-heading {
+		margin-bottom: 30px;
+	}
+
+}
+
+#form-pap-combination-edit {
+	padding-top: 60px !important;
+}
